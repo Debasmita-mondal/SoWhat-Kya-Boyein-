@@ -12,12 +12,16 @@ The needs of contemporary agriculture, which demands high-yield, high-quality, a
 ## OVERVIEW :  
 This is a project made for Google solutions challenge 2023. SoWhat app name indicates a question **"Sow What?"** which is prevalent among farmers regarding what to sow on a particular land. So this app will act as an answer to this long time lingering question as mentioned before. In addtion to prediction this app will suggest some new sustainable agriculture practices to farmers.
 Our team had chosen a problem statement related to **Crop Guidance and Farmers Friend - (BioTech)** which deals with the 3 sustainable goals. 
-1) Responsible Consumption and Production
+
+1)Responsible Consumption and Production-
  To ensure sustainable consumption and production patterns.
-2)Zero Hunger
+ 
+2)Zero Hunger-
  To end hunger, achieve food security and improved nutrition, and promote sustainable agriculture.
-3)Life on Land
+ 
+3)Life on Land-
  To protect, restore, and promote sustainable use of terrestrial ecosystems, manage forests, combat desertification and biodiversity loss, and halt and reverse land degradation.
+ 
 We had majorly utilized Machine Learning to make predictions and used Flutter ,Tenserflow and Tenserflow lite to integrate our ML model into a mobile app. This app aims to ease the decision making of farmers.
 
 ## INSPIRATION :
