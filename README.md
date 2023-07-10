@@ -1,10 +1,5 @@
 # SoWhat(Kya Boyein) Mobile Application
 
-## OUR TEAM ACE :
-1. Sonali Kumari (BTech ECE-AI, 2nd year, IGDTUW)
-2. Debasmita Mondal (BTech MAE, 2nd year, IGDTUW)
-3. Shruti Sharma (Btech IT, 2nd year, IGDTUW)
-
 ## PROBLEM STATEMENT :
 Crop Guidance and Farmers Friend - (BioTech)
 The needs of contemporary agriculture, which demands high-yield, high-quality, and efficient production, cannot be met by conventional agricultural practices. Furthermore, farmers face the main challenge of how to adapt to changing customer preferences. It is critical to modernize existing processes and use data acquired over time to determine the best potential farming practices that should be implemented.
